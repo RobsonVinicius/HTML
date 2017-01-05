@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Define Multiple image</title>
+  </head>
+  <body>
+      <!-- Declare diferentes imagens para vários tipos de tela, densidade de pixel e outros parametros utilizados no design responsivo -->
+      <picture>
+          <source srcset="mobile.jpg, mobile-hd.jpg 2x" media="(max-width: 360px)">
+          <source srcset="large.jpg, large-hd.jpg 2x" media="(min-width: 1920px)">
+          <img src="default.jpg" srcset="default-hd.jpg 2x" alt="sua imagem">
+      </picture>
+
+  </body>
+</html>
