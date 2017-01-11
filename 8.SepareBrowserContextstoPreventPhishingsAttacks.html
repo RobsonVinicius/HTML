@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Imagens largura zero</title>
+	<style>
+		.box-1{
+			padding: 200px 200px 0px;
+			text-align: justify;
+		}
+		.box-2{
+			padding: 20px 200px;
+			text-align: justify;
+		}
+
+	</style>
+</head>
+<body>
+<p class="box-1"> 
+Separe os contextos do navegador para evitar ataques de phishing
+
+Usando os mesmos links de origem em seu site pode eventualmente levá-lo a alguns problemas. A vulnerabilidade é chamada de exploit <a href="https://www.jitbit.com/alexblog/256-targetblank---the-most-underestimated-vulnerability-ever/" target="_blank">target = "_ blank"</a>, e é um ataque phishing desagradável. Você pode testar (com segurança) como este ataque funciona nesta página <a href="https://mathiasbynens.github.io/rel-noopener/" target="_blank">demo Github inteligente</a>, e seu código de fundo você pode encontrar aqui no <a href="https://github.com/mathiasbynens/rel-noopener" target="_blank">Github</a>.</p>
+<p class="box-2">
+HTML 5.1 tem padronizado o uso do atributo rel = "noopener" que separa os contextos do navegador, portanto, elimina esse problema. Você pode usar rel = "noopener" nos elementos <a> e <area>. </p>
+
+<a href="#" target="_blank" rel="noopener">
+  Your link that won't make troubles
+</a>
+
+</body>
+</html>
