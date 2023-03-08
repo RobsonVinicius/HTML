@@ -8,9 +8,9 @@
 # HTML
 Dedicado a estudos em HTML 
 
-<br>
 
-## 🌐 Sites para Estudos
+
+## 🌐 Sites para estudos
 
 + https://html.com/
 + https://www.learn-html.org/
