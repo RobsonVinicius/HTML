@@ -13,4 +13,5 @@ Dedicado a estudos em HTML
 ## 🌐 Sites para Estudos
 
 + https://html.com/
++ https://www.learn-html.org/
 
