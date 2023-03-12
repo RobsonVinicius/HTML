@@ -15,4 +15,5 @@ Dedicado a estudos em HTML
 + https://html.com/
 + https://www.learn-html.org/
 + https://web.dev/learn/html/
++ https://developer.mozilla.org/en-US/docs/Learn/HTML
 
