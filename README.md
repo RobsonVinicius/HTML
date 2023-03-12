@@ -17,3 +17,9 @@ Dedicado a estudos em HTML
 + https://web.dev/learn/html/
 + https://developer.mozilla.org/en-US/docs/Learn/HTML
 
+
+
+
+## Livros 
+
++ [HTML and CSS: Design and Build Websites - Jon Duckett](https://amzn.to/3JbpaHJ)
